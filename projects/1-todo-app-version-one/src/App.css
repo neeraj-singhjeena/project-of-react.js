@@ -1,0 +1,24 @@
+h1{
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 2rem;
+}
+.toto-content{
+    height: 250px;
+    width: 520px;
+    background-color: rgb(183, 198, 198);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+input{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    height: 40px;
+    width: 100%;
+}
+.kg-button{
+max-width: 80px;
+}
